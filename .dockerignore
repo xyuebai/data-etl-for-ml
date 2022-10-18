@@ -1,0 +1,11 @@
+__pycache__/*
+__pycache__
+
+venv
+venv/*
+
+data
+data/*
+
+secret_README.md
+data_to_s3.py

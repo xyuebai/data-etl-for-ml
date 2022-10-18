@@ -1,0 +1,14 @@
+__pycache__/*
+__pycache__
+
+venv
+venv/*
+
+data
+data/*
+
+data_to_s3.py
+secret_README.md
+
+.DS_Store
+
