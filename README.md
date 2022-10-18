@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The ETL job include data crawling from online, data cleaning, and feature engineering. The data is saved in parquet format locally and also upload to AWS S3
+This project includes data crawling, data processing, and data loading to S3. The data is crawled from a public apartment trading website and then it is cleaned and formatted. Features are extracted from the data, and the file is finally saved in parquet format locally and also in S3
 
 ## File Structure
 
