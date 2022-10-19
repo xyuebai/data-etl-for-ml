@@ -11,7 +11,7 @@ This project includes data crawling, data processing, and data loading to S3. Th
  ├── data
  │   ├── raw
  │   ├── clean 
- │   └──fea               
+ │   └── fea               
  ├── config.ini             # setting file
  ├── Dockerfile
  ├── prepare_data.py        # main function
