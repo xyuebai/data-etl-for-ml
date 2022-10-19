@@ -38,3 +38,5 @@ $ docker run \
     -it data_clean\ 
     /bin/bash 
 ```
+## 2. Project Screenshot
+![alt text](https://yue-cv-pic.s3.eu-west-1.amazonaws.com/data-etl-pic.jpg)
