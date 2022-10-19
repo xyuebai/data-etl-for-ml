@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project includes data crawling, data processing, and data loading to S3. The data is crawled from a public apartment trading website and then it is cleaned and formatted. Features are extracted from the data, and the file is finally saved in parquet format locally and also in S3
+This project includes data crawling, data processing, and data loading to S3. The data is crawled from a public apartment trading website and then it is cleaned, formatted and the features are extracted from the data. Finally, the data form different cities are saved in parquet format locally and also in S3.
 
 ## File Structure
 
